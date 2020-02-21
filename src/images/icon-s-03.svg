@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.646" height="29.441" viewBox="0 0 28.646 29.441">
+    <defs>
+        <style>
+            .cls-1,.cls-2,.cls-3,.cls-5{fill:none}.cls-1{stroke:#070707}.cls-1,.cls-2,.cls-3{stroke-width:1.5px}.cls-2{stroke:#0a0a0a}.cls-3{stroke:#080808}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Grupo_269" data-name="Grupo 269" transform="translate(-826.858 -4152.139)">
+        <g id="Rectángulo_163" class="cls-1" data-name="Rectángulo 163">
+            <path d="M0 0h28.646v27.054H0z" class="cls-4" transform="translate(826.858 4154.525)"/>
+            <path d="M.75.75h27.146v25.554H.75z" class="cls-5" transform="translate(826.858 4154.525)"/>
+        </g>
+        <path id="Línea_35" d="M0 0h27.054" class="cls-2" data-name="Línea 35" transform="translate(827.653 4161.687)"/>
+        <path id="Línea_36" d="M0 0v6.366" class="cls-3" data-name="Línea 36" transform="translate(834.019 4152.139)"/>
+        <path id="Línea_37" d="M0 0v6.366" class="cls-3" data-name="Línea 37" transform="translate(848.342 4152.139)"/>
+    </g>
+</svg>
