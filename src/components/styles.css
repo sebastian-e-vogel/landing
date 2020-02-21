@@ -227,6 +227,20 @@ padding: 0px;
     text-decoration:none;  
     display: flex; 
     flex-direction: column;
+    
+}
+
+.LiFifth li{
+    list-style:none;
+    text-align: left;
+    
+}
+.LiFifth li p{
+    margin: 0px;
+}
+
+.TextBold-Fifth{
+    font-weight: bold
 }
 
 
@@ -254,7 +268,24 @@ padding: 0px;
 }
 .Text-SixthSection{
     width: 500px;
-    
+    text-align: left;
+
+
+}
+
+.Text-SixthSection p{
+    font-weight:bold;
+    font-size: 18px;
+}
+
+.List-SixthSection{
+    padding: 0px
+}
+.List-SixthSection li{
+    list-style: none;
+    text-align: left;
+    font-weight:bold;
+    font-size: 18px;
 }
 
 .Container-SixthTexts{
@@ -274,6 +305,7 @@ padding: 0px;
     justify-content: space-between;
     width: 85%;
     color: black;
+    padding: 40px 0px;
 }
 
 .Icon-Seventh{
