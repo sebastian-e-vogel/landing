@@ -367,3 +367,13 @@ padding: 0px;
     flex-direction: column;
 }
 
+/* FOOTER */
+
+.Footer{
+    background-color: grey;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white
+}

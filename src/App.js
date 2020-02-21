@@ -10,6 +10,7 @@ import SixthSection from './components/SixthSection'
 import SeventhSection from './components/SeventhSection'
 import Parallax from './components/Parallax'
 import Carrousel from './components/Carrousel'
+import Footer from './components/Footer'
 
 
 
@@ -28,6 +29,7 @@ function App() {
     <SeventhSection />
     <Parallax />
     <Carrousel />
+    <Footer />
         
     </div>
   );
